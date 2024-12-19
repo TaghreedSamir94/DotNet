@@ -1,0 +1,14 @@
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.AssemblyInfoInputs.cache
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.AssemblyInfo.cs
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.csproj.CoreCompileInputs.cache
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\bin\Debug\net8.0\Demo-D2.exe
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\bin\Debug\net8.0\Demo-D2.deps.json
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\bin\Debug\net8.0\Demo-D2.runtimeconfig.json
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\bin\Debug\net8.0\Demo-D2.dll
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\bin\Debug\net8.0\Demo-D2.pdb
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.dll
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\refint\Demo-D2.dll
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.pdb
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\Demo-D2.genruntimeconfig.cache
+D:\Route-DotNet\C#\C#-D2\D2\Demo-D2\obj\Debug\net8.0\ref\Demo-D2.dll
