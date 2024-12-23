@@ -1,0 +1,15 @@
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\bin\Debug\net8.0\Demo_D3.exe
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\bin\Debug\net8.0\Demo_D3.deps.json
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\bin\Debug\net8.0\Demo_D3.runtimeconfig.json
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\bin\Debug\net8.0\Demo_D3.dll
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\bin\Debug\net8.0\Demo_D3.pdb
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.AssemblyInfoInputs.cache
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.AssemblyInfo.cs
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.csproj.CoreCompileInputs.cache
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.sourcelink.json
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.dll
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\refint\Demo_D3.dll
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.pdb
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\Demo_D3.genruntimeconfig.cache
+D:\Route-DotNet\DotNet\CSharp_Basics\CS-D3\D3\obj\Debug\net8.0\ref\Demo_D3.dll
