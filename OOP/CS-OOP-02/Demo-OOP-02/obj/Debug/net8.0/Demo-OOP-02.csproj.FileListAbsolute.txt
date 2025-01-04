@@ -1,0 +1,15 @@
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\bin\Debug\net8.0\Demo-OOP-02.exe
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\bin\Debug\net8.0\Demo-OOP-02.deps.json
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\bin\Debug\net8.0\Demo-OOP-02.runtimeconfig.json
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\bin\Debug\net8.0\Demo-OOP-02.dll
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\bin\Debug\net8.0\Demo-OOP-02.pdb
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.AssemblyInfoInputs.cache
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.AssemblyInfo.cs
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.csproj.CoreCompileInputs.cache
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.sourcelink.json
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.dll
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\refint\Demo-OOP-02.dll
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.pdb
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\Demo-OOP-02.genruntimeconfig.cache
+D:\Route-DotNet\DotNet\OOP\CS-OOP-02\Demo-OOP-02\obj\Debug\net8.0\ref\Demo-OOP-02.dll
